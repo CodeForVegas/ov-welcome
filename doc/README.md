@@ -1,6 +1,6 @@
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
- 
+
  This file is part of ov-welcome.
  
  ov-welcome is free software: you can redistribute it and/or modify
