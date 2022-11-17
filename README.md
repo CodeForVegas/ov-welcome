@@ -16,7 +16,15 @@
  You should have received a copy of the GNU General Public License
  along with ov-welcome.  If not, see <http://www.gnu.org/licenses/>.
 -->
+# Welcome Overview
 
-# Welcome
+This Overview repository is a specification and documentation component of the Welcome Project. Please do not add code or other resources to this repository.
 
-Our Human Interface to our Smart City for visitors, tourists, and convention attendees!
+The goal of the Welcome Project is to enable a Human Interface for our Smarter Smart City.
+
+## Project Policies
+
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
+
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
